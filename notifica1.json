@@ -2,9 +2,9 @@
   "notifications": [
     {
   "id": "realtime_test",
-  "title": " Teste",
-  "message": "Bom uso!",
-  "type": "success",
+  "title": "Atenção",
+  "message": "risco de ban",
+  "type": "warning",
   "date": "18:40 Pm"
     }
   ]
