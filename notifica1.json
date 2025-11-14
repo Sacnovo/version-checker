@@ -7,19 +7,5 @@
       "type": "success",
       "date": "2024-11-15"
     },
-    {
-      "id": "welcome_001",
-      "title": "👋 Bem-vindo ao S4CH4CK MOD",
-      "message": "Aproveite todos os recursos disponíveis no menu!",
-      "type": "info",
-      "date": "2024-11-15"
-    },
-    {
-      "id": "feature_001",
-      "title": "💎 Novo Recurso",
-      "message": "Agora você pode personalizar cores individuais dos ESPs!",
-      "type": "info",
-      "date": "2024-11-13"
-    }
   ]
 }
