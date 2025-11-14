@@ -1,18 +1,7 @@
 {
-  "notifications": [
-    {
-      "id": "notif_002",
-      "title": "🎮 Nova Atualização v2.0",
-      "message": "ESP melhorado com 5 novos estilos visuais!",
-      "type": "success",
-      "date": "2024-11-15"
-    },
-    {
-      "id": "notif_001",
-      "title": "Título da Notificação",
-      "message": "Mensagem detalhada aqui",
-      "type": "info",
-      "date": "2024-11-14"
-    }
-  ]
+  "id": "update_001",
+  "title": "⚡ Atualização Disponível",
+  "message": "Versão 3.0 com aimbot melhorado está disponível!",
+  "type": "success",
+  "date": "2024-11-15"
 }
