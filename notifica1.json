@@ -1,0 +1,11 @@
+{
+  "notifications": [
+    {
+      "id": "notif_001",
+      "title": "Título da Notificação",
+      "message": "Mensagem detalhada aqui",
+      "type": "info",
+      "date": "2024-11-14"
+    }
+  ]
+}
