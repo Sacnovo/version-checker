@@ -15,20 +15,6 @@
       "date": "2024-11-15"
     },
     {
-      "id": "update_001",
-      "title": "⚡ Nova Atualização v2.5",
-      "message": "ESP melhorado com 5 novos estilos visuais disponíveis!",
-      "type": "success",
-      "date": "2024-11-14"
-    },
-    {
-      "id": "warning_001",
-      "title": "⚠️ Aviso Importante",
-      "message": "Use o mod com responsabilidade para evitar detecções",
-      "type": "warning",
-      "date": "2024-11-14"
-    },
-    {
       "id": "feature_001",
       "title": "💎 Novo Recurso",
       "message": "Agora você pode personalizar cores individuais dos ESPs!",
