@@ -2,10 +2,17 @@
   "notifications": [
     {
       "id": "test_001",
-      "title": "Sistema Notificação",
-      "message": "Bem Vindo",
+      "title": "🎉 Sistema Funcionando!",
+      "message": "Se você está vendo isso, o sistema de notificações está 100% operacional!",
       "type": "success",
-      "date": "Hoje"
+      "date": "2024-11-15"
     },
+    {
+      "id": "welcome_001",
+      "title": "👋 Bem-vindo ao S4CH4CK MOD",
+      "message": "Aproveite todos os recursos disponíveis no menu!",
+      "type": "info",
+      "date": "2024-11-15"
+    }
   ]
 }
