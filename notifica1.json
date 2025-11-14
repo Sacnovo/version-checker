@@ -1,18 +1,39 @@
 {
   "notifications": [
     {
-      "id": "notif_002",
-      "title": "🎮 Nova Atualização v2.0",
-      "message": "ESP melhorado com 5 novos estilos visuais!",
+      "id": "test_001",
+      "title": "🎉 Sistema Funcionando!",
+      "message": "Se você está vendo isso, o sistema de notificações está 100% operacional!",
       "type": "success",
       "date": "2024-11-15"
     },
     {
-      "id": "notif_001",
-      "title": "Título da Notificação",
-      "message": "Mensagem detalhada aqui",
+      "id": "welcome_001",
+      "title": "👋 Bem-vindo ao S4CH4CK MOD",
+      "message": "Aproveite todos os recursos disponíveis no menu!",
       "type": "info",
+      "date": "2024-11-15"
+    },
+    {
+      "id": "update_001",
+      "title": "⚡ Nova Atualização v2.5",
+      "message": "ESP melhorado com 5 novos estilos visuais disponíveis!",
+      "type": "success",
       "date": "2024-11-14"
+    },
+    {
+      "id": "warning_001",
+      "title": "⚠️ Aviso Importante",
+      "message": "Use o mod com responsabilidade para evitar detecções",
+      "type": "warning",
+      "date": "2024-11-14"
+    },
+    {
+      "id": "feature_001",
+      "title": "💎 Novo Recurso",
+      "message": "Agora você pode personalizar cores individuais dos ESPs!",
+      "type": "info",
+      "date": "2024-11-13"
     }
   ]
 }
