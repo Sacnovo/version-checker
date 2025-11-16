@@ -3,7 +3,7 @@
     {
   "id": "realtime_test",
   "title": "Atenção",
-  "message": "Pode conter riscos as 4Hrs, se não cair vamos tirar essa mensagem",
+  "message": "Pode conter riscos as 4Hrs",
   "type": "warning",
   "date": "3:30 AM"
     }
