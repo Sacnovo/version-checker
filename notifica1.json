@@ -2,10 +2,10 @@
   "notifications": [
     {
   "id": "realtime_test",
-  "title": "Atenção",
-  "message": "Pode conter riscos as 4Hrs",
+  "title": "Leia!!!!",
+  "message": "Risco de ban, manutenção horário:",
   "type": "warning",
-  "date": "3:30 AM"
+  "date": "4:00 AM"
     }
   ]
 }
