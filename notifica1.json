@@ -2,10 +2,10 @@
   "notifications": [
     {
   "id": "realtime_test",
-  "title": "S4cH4ck",
-  "message": "Bem Vindo ao mod S4cH4ck",
+  "title": "Atenção",
+  "message": "Pode conter riscos, manutenção:",
   "type": "warning",
-  "date": "20:00 Pm"
+  "date": "3:30 AM"
     }
   ]
 }
