@@ -3,10 +3,10 @@
   "notifications": [
     {
   "id": "realtime_test",
-  "title": "Leia!!!!",
-  "message": "Risco, manutenção horário:",
-  "type": "warning",
-  "date": "4:20 AM"
+  "title": "Mod safe!",
+  "message": "bom uso",
+  "type": "sucess",
+  "date": "17:11 Pm"
     }
   ]
 }
