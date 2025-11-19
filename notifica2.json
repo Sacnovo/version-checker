@@ -4,9 +4,9 @@
   "notifications": [
     {
   "id": "realtime_test",
-  "title": "Atualizado!",
-  "message": "jogue moderado",
-  "type": "sucess",
+  "title": "desatualizado!",
+  "message": "dando ban",
+  "type": "error",
   "date": "20:29"
     }
   ]
